@@ -111,5 +111,5 @@ Built for **Apple Swift Student Challenge 2026**
 
 ## 👨‍💻 Author
 
-**Kartik** — Swift Developer & Designer
+**Kartik Bhadane** — Swift Developer & Designer
 Pune, India 🇮🇳
